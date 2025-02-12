@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @deepesh-singh-maersk
-- 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Data Science Projects outside of ROCK may be on a few hours a week basis.
+- 👀 I’m a Data Scientist and working on Marketing.
 - 📫 How to reach me : feel free to ping me.
 
 <!---
